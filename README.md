@@ -1,5 +1,6 @@
 # odin-landing-page
 A Landing Page Project completed for TOP
+
 Link: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
 
 Acceptance Criteria
