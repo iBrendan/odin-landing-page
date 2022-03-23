@@ -1,7 +1,7 @@
-* {
+/* * {
     margin: 0;
     padding:0;
-}
+} */
 
 .header-links {
    display: flex;
@@ -16,6 +16,15 @@
 .left-link, 
 .right-links {
     list-style-type: none;
+}
+
+.hero-text-cta {
+    display: flex;
+    justify-content: space-around;
+    word-break:break-all;
+    width:500px;
+    padding: 50px 50px;
+
 }
 
 .image-placeholder {
