@@ -3,6 +3,21 @@
     padding:0;
 }
 
+.header-links {
+   display: flex;
+   justify-content: space-around;
+}
+
+.right-links {
+   display: flex;
+   gap: 10px;
+}
+
+.left-link, 
+.right-links {
+    list-style-type: none;
+}
+
 .image-placeholder {
     background-color: #eee;
     display: flex;
