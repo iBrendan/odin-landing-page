@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+.image-placeholder {
+    background-color: #eee;
+    display: flex;
+    height: 180px;
+    margin: 5px;
+    width: 260px;
+}
+
+.image-placeholder h4 {
+    align-self: center;
+    text-align: center;
+    width: 100%;
+}
+
+.random-img{
+    background-color: rgb(250, 250, 250);
+    display: flex;
+    height: 100px;
+    margin: 5px;
+    width: 100px;
+    border: solid blue 2px;
+}
