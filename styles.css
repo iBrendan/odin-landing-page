@@ -20,10 +20,11 @@
 
 .hero-text-cta {
     display: flex;
-    justify-content: space-around;
+    align-content: space-between;
+    align-items: center;
     word-break:break-all;
-    width:500px;
-    padding: 50px 50px;
+    /* width:800px; */
+    /* padding: 50px 50px */
 
 }
 
@@ -32,7 +33,7 @@
     display: flex;
     height: 180px;
     margin: 5px;
-    width: 260px;
+    width: 200px;
 }
 
 .image-placeholder h4 {
@@ -47,5 +48,5 @@
     height: 100px;
     margin: 5px;
     width: 100px;
-    border: solid blue 2px;
+    border: solid red 2px;
 }
